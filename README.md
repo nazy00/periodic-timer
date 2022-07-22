@@ -1,2 +1,2 @@
-# pomo-beep
+# periodic-timer
 Interval timer
